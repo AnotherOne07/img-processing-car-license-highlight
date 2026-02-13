@@ -44,6 +44,7 @@ Coeficiente: 0.30 \ Alinhamento BOM \ Recorte RUIM
 <img src="src/img/experiments/car_02.png" alt="drawing" width="300"/>
 
 Coeficiente: 0.30 \ Alinhamento BOM \ Recorte RUIM
+
 <img src="src/img/experiments/car_03.png" alt="drawing" width="300"/>
 
 Coeficiente: 0.15 \ Alinhamento RUIM \ Recorte RUIM
