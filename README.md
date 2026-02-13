@@ -1,6 +1,8 @@
 # Highlight of car licenses project
 Repositório destinado para implementação de projeto avaliativo do curso de processamento de imagens digitais.
 
+Vídeo no YT: https://youtu.be/eE8XIyCWZ00
+
 Referência original: https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e
 
 ## Objetivos Gerais do Projeto
